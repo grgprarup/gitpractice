@@ -24,7 +24,7 @@ function App() {
           This is the another line for second commit.
           This is a sentence added for the third commit.
           Now this is the first commit for branch-karun.
-          This is the second commit for the branch-karun.
+          This is the second commit for the branch-karun
         </a>
       </header>
     </div>
