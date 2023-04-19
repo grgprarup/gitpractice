@@ -18,6 +18,7 @@ function App() {
           Learn React
           I added this line for first commit.
           This is the another line for second commit.
+          This is a sentence added for the third commit.
         </a>
       </header>
     </div>
