@@ -13,6 +13,19 @@ function App() {
           <Paragraph/>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Learn React
+          I added this line for first commit.
+          This is the another line for second commit.
+          This is a sentence added for the third commit.
+          Now this is the first commit for branch-karun.
+          This is the second commit for the branch-karun
+        </a>
       </header>
     </div>
   );
