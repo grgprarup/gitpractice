@@ -20,7 +20,6 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
-          This is the another line for second commit.
           This is a sentence added for the third commit.
         </a>
       </header>
