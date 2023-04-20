@@ -8,7 +8,6 @@ function App() {
     <div className="App">
 
       <header className="App-header">
-        <Button/>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           <Paragraph/>
@@ -21,7 +20,6 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
-          I added this line for first commit.
           This is the another line for second commit.
           This is a sentence added for the third commit.
         </a>
